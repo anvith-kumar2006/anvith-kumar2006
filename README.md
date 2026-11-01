@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="assets/doraemon-running.gif" alt="Anvith Kumar — Animated Doraemon running header" width="100%" />
-</div>
+
 
 <div align="center">
 
